@@ -9,5 +9,5 @@ const aee = [1, 2, 3]
 
 
 if(true){
-    console.log('aee')
+    console.log('aee22')
 }
