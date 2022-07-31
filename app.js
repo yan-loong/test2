@@ -11,3 +11,6 @@ const aee = [1, 2, 3]
 if(true){
     console.log('aee22444222222222222')
 }
+
+
+const a=23
