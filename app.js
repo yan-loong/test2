@@ -1,1 +1,5 @@
-console.log('gio')
+console.log('gio');
+
+function test(){
+    console.log('aeeeeeee')
+}
